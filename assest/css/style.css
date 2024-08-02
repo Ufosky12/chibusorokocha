@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    padding-bottom: 9em;
+    color: #494e52;
+    font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+    line-height: 1.5;
+}
+._details{
+    margin-left: 0px !important;
+}
+.social-icons li{
+    list-style: none;
+    text-decoration: none;
+}
+.social-icons a{
+    list-style: none;
+    text-decoration: none;
+    color: #494e52;
+}
